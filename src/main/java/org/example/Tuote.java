@@ -1,4 +1,4 @@
-package mockesimerkki;
+package org.example;
 
 public class Tuote {
 	
